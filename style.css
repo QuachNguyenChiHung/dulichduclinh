@@ -514,7 +514,12 @@ body{
     margin-top: 8rem;
 }
 @media only screen and (max-width:576px) {
-
+    .dldl h1{
+        font-size: 1.8rem !important;
+    }
+    .dldl h5{
+        font-size: 0.75rem !important;
+    }
     .contact{
       display: flex;
       min-width: 100%;
@@ -596,4 +601,3 @@ body{
 }
 /*End of bubble*/
 }
-
